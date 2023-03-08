@@ -1,0 +1,4 @@
+/opt/genepatt/gpunit/Escherichia_coli_K_12_DH10B_Ensembl_EB1.fa
+/opt/genepatt/gpunit/Escherichia_coli_K_12_DH10B_Ensembl_EB1.fa.gz
+/opt/genepatt/gpunit/mock_read_1.fa
+/opt/genepatt/gpunit/mock_read_2.fa
