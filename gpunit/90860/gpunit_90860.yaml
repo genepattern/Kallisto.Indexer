@@ -1,0 +1,20 @@
+
+name: gpunit_90860
+# description: created from job 90860
+# ET(ms): 729000# from server:  https://beta.genepattern.org/gp/
+module: Kallisto.Indexer
+# lsid: urn:lsid:genepattern.org:module.analysis:00434:0.5
+params: 
+    "FASTA.files": "inputs/FASTA.files.list.txt"
+    "output.filename": "new_kallisto_index"
+    "k-mer.size": "99"
+    "make.unique": "No"
+
+assertions: 
+    jobStatus: success
+    files: 
+        module_log.txt: !!null
+        new_kallisto_index.idx: !!null
+        stderr.txt: !!null
+        stdout.txt: !!null
+        gp_execution_log.txt: !!null

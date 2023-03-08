@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Required",
+        "description": "Required Arguments",
+        "hidden": false,
+        "parameters": [
+            "FASTA.files",
+            "output.filename"
+        ]
+    },
+    {
+        "name": "Optional Arguments",
+        "description": "",
+        "hidden": true,
+        "parameters": [
+            "k-mer.size",
+            "make.unique"
+        ]
+    }
+]

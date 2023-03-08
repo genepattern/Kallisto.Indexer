@@ -1,0 +1,6 @@
+/opt/gpbeta_2/gp_home/jobResults/90864
+--> Arguments read:
+blalblablasbl12312312312 Yes 29 /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run8035082118830220825.tmp/FASTA.files.list.txt
+The output filename is: blalblablasbl12312312312
+Will make unique names? Yes
+evaluating: kallisto index -i ./blalblablasbl12312312312.idx --make-unique --kmer-size=29  /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run4461993394481048818.tmp/FASTA.files/1/mock_read_2.fa

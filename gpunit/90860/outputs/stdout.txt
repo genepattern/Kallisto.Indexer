@@ -1,0 +1,6 @@
+/opt/gpbeta_2/gp_home/jobResults/90860
+--> Arguments read:
+new_kallisto_index No 99 /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run6130135262024542938.tmp/FASTA.files.list.txt
+The output filename is: new_kallisto_index
+Will make unique names? No
+evaluating: kallisto index -i ./new_kallisto_index.idx  /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run4311612544338615488.tmp/FASTA.files/1/mock_read_1.fa /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run5440738719350686759.tmp/FASTA.files/2/mock_read_2.fa

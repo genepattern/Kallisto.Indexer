@@ -1,0 +1,12 @@
+
+# Job: 90864
+# User: edwin5588
+# Submitted: 2023-03-08 20:13:02.0
+# Completed: 02023-21-08 08:21:52.984
+# ET(ms): 530984    server:  https://beta.genepattern.org/gp/
+# Module: Kallisto.Indexer urn:lsid:genepattern.org:module.analysis:00434:0.5
+# Parameters: 
+#    FASTA.files = FASTA.files.list.txt   https://beta.genepattern.org/gp/users/edwin5588/tmp/run8035082118830220825.tmp/FASTA.files.list.txt # file size 	106
+#    output.filename = blalblablasbl12312312312
+#    k-mer.size = 29
+#    make.unique = Yes

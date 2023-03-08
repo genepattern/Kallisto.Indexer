@@ -1,0 +1,8 @@
+
+[build] loading fasta file /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run6890955197090133306.tmp/FASTA.files/1/Escherichia_coli_K_12_DH10B_Ensembl_EB1.fa
+[build] loading fasta file /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run9084797494832445995.tmp/FASTA.files/2/Escherichia_coli_K_12_DH10B_Ensembl_EB1.fa.gz
+[build] k-mer length: 31
+Error: repeated name in FASTA file /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run9084797494832445995.tmp/FASTA.files/2/Escherichia_coli_K_12_DH10B_Ensembl_EB1.fa.gz
+Chromosome
+
+Run with --make-unique to replace repeated names with unique names

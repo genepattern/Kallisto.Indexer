@@ -1,0 +1,3 @@
+--> Arguments read:
+new_kallisto_index No 99 /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run6130135262024542938.tmp/FASTA.files.list.txt
+The output filename is: new_kallisto_index

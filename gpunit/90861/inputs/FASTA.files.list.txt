@@ -1,0 +1,2 @@
+../../inputs/Escherichia_coli_K_12_DH10B_Ensembl_EB1.fa
+../../inputs/Escherichia_coli_K_12_DH10B_Ensembl_EB1.fa.gz

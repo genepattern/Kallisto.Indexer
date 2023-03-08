@@ -1,0 +1,3 @@
+--> Arguments read:
+blalblablasbl12312312312 Yes 29 /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run8035082118830220825.tmp/FASTA.files.list.txt
+The output filename is: blalblablasbl12312312312

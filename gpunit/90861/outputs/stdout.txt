@@ -1,0 +1,6 @@
+/opt/gpbeta_2/gp_home/jobResults/90861
+--> Arguments read:
+new_kallisto_index No 31 /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run7132797779971347095.tmp/FASTA.files.list.txt
+The output filename is: new_kallisto_index
+Will make unique names? No
+evaluating: kallisto index -i ./new_kallisto_index.idx  /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run6890955197090133306.tmp/FASTA.files/1/Escherichia_coli_K_12_DH10B_Ensembl_EB1.fa /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run9084797494832445995.tmp/FASTA.files/2/Escherichia_coli_K_12_DH10B_Ensembl_EB1.fa.gz

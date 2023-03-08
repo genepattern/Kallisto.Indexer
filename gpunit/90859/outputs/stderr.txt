@@ -1,0 +1,10 @@
+
+[build] loading fasta file /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run704621365633024008.tmp/FASTA.files/1/mock_read_1.fa
+[build] loading fasta file /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run4255581666867016886.tmp/FASTA.files/2/mock_read_1.fa
+[build] loading fasta file /opt/gpbeta_2/gp_home/users/edwin5588/uploads/tmp/run8241146005429757066.tmp/FASTA.files/3/mock_read_1.fa
+[build] k-mer length: 31
+[build] counting k-mers ... done.
+[build] building target de Bruijn graph ...  done 
+[build] creating equivalence classes ...  done
+[build] target de Bruijn graph has 0 contigs and contains 0 k-mers 
+

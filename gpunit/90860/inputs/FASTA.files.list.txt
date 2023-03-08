@@ -1,0 +1,2 @@
+../../inputs/mock_read_1.fa
+../../inputs/mock_read_2.fa
