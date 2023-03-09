@@ -1,4 +1,4 @@
-# kallisto.indexer
+# Kallisto.Indexer
 Builds a kallisto index from a FASTA formatted file of target sequences
 
 ## Parameters
