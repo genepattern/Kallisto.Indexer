@@ -69,7 +69,7 @@ p4_type=java.lang.String
 p4_value=Yes\=Yes;No\=No
 privacy=public
 quality=preproduction
-src.repo=https\://github.com/genepattern/kallisto.indexer
+src.repo=https\://github.com/genepattern/Kallisto.Indexer
 taskDoc=
 taskType=
 userid=edwin5588
