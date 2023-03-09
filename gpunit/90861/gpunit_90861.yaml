@@ -16,4 +16,3 @@ assertions:
         module_log.txt: !!null
         stderr.txt: !!null
         stdout.txt: !!null
-        gp_execution_log.txt: !!null
