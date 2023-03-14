@@ -17,6 +17,7 @@ Kallisto is a program for quantifying abundances of transcripts from bulk and si
   
 ## Documentation
   - https://pachterlab.github.io/kallisto/manual
+  - Uses Kallisto 0.46.1
   
 ## Contact
   - Edwin Huang -- UCSD Mesirov Lab
