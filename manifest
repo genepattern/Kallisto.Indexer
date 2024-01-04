@@ -14,6 +14,7 @@ job.memory=
 job.walltime=
 language=any
 name=Kallisto.Indexer
+categories=rna-seq
 os=any
 p1_MODE=IN
 p1_TYPE=FILE
